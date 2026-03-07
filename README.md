@@ -75,7 +75,7 @@ Download the latest release from the Releases page.
 
 If you try ClipFeed, feel free to share feedback or feature ideas.
 
-
+---
 
 ## 日本語版説明
 
