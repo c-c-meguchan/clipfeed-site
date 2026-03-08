@@ -6,6 +6,10 @@ ClipFeed is a simple clipboard timeline that lets you **reuse things you copied 
 
 Instead of copying the same text repeatedly — links, prompts, messages, or anything else — ClipFeed keeps them ready so you can paste them instantly.
 
+
+The main application source code is private,
+but releases and update metadata are managed here.
+
 **Download:** [Releases](https://github.com/c-c-meguchan/clipfeed-site/releases)
 
 
@@ -36,6 +40,8 @@ ClipFeed lets you **copy once and reuse anytime.**
 That's it.
 
 No complicated setup.
+
+
 
 If macOS shows a security warning:
 
