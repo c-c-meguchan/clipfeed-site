@@ -51,7 +51,7 @@ If macOS shows a security warning:
 
 ---
 
-### Privacy by Design
+## Privacy by Design
 
 ClipFeed is built as an offline-first app.
 Your clipboard history never leaves your Mac.
@@ -103,7 +103,7 @@ PCで画像やテキストを扱う方は役に立つ場面が多いと思いま
 開発者は日本人で、英語/日本語対応しています。
 
 
-特徴
+### 特徴
 - フィード型UI
 - スクリーンショットのOCR
 - コピー元アプリでフィルタ
