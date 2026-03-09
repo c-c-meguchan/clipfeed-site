@@ -6,6 +6,8 @@ ClipFeed is a simple clipboard timeline that lets you **reuse things you copied 
 
 Instead of copying the same text repeatedly — links, prompts, messages, or anything else — ClipFeed keeps them ready so you can paste them instantly.
 
+ClipFeed stores your clipboard history only on your Mac. No data is sent to any server.
+
 
 The main application source code is private,
 but releases and update metadata are managed here.
