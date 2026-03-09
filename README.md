@@ -54,7 +54,9 @@ If macOS shows a security warning:
 ## Privacy by Design
 
 ClipFeed is built as an offline-first app.
+
 Your clipboard history never leaves your Mac.
+
 No data is sent to any server.
 
 
