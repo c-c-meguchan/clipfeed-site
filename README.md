@@ -42,13 +42,6 @@ That's it.
 No complicated setup.
 
 
-
-If macOS shows a security warning:
-
-1. Right-click the app
-2. Click "Open"
-3. Click "Open" again
-
 ---
 
 ## Privacy by Design
@@ -111,4 +104,4 @@ PCで画像やテキストを扱う方は役に立つ場面が多いと思いま
 - コピー元アプリでフィルタ
 - ライト / ダークテーマ
 
-※ 初回は「開く」がブロックされる場合があります。その場合は **右クリック →「開く」** で起動してください。
+※ 初回は「開く」がブロックされます。一度警告ポップアップが出たあと、 **設定>プライバシーとセキュリティ** で「このアプリを開く」操作を行なってください。
